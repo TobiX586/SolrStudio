@@ -1,4 +1,5 @@
 # Solr Studio
+Work in Progress, some things not working right now...
 
 A modern web application for managing Apache Solr instances, built with Next.js and TypeScript.
 
